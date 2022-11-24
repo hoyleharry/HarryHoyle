@@ -4,68 +4,10 @@
 
 [![](https://badgen.net/github/release/p32929/p32929.github.io)]() [![](https://badgen.net/github/release/p32929/p32929.github.io/stable)]() [![](https://badgen.net/github/tag/p32929/p32929.github.io)]() [![](https://badgen.net/github/watchers/p32929/p32929.github.io)]() [![](https://badgen.net/github/checks/p32929/p32929.github.io)]() [![](https://badgen.net/github/status/p32929/p32929.github.io)]() [![](https://badgen.net/github/stars/p32929/p32929.github.io)]() [![](https://badgen.net/github/forks/p32929/p32929.github.io)]() [![](https://badgen.net/github/issues/p32929/p32929.github.io)]() [![](https://badgen.net/github/open-issues/p32929/p32929.github.io)]() [![](https://badgen.net/github/closed-issues/p32929/p32929.github.io)]() [![](https://badgen.net/github/label-issues/p32929/p32929.github.io/help-wanted/open)]() [![](https://badgen.net/github/prs/p32929/p32929.github.io)]() [![](https://badgen.net/github/open-prs/p32929/p32929.github.io)]() [![](https://badgen.net/github/closed-prs/p32929/p32929.github.io)]() [![](https://badgen.net/github/merged-prs/p32929/p32929.github.io)]() [![](https://badgen.net/github/commits/p32929/p32929.github.io)]() [![](https://badgen.net/github/last-commit/p32929/p32929.github.io)]() [![](https://badgen.net/github/branches/p32929/p32929.github.io)]() [![](https://badgen.net/github/releases/p32929/p32929.github.io)]() [![](https://badgen.net/github/tags/p32929/p32929.github.io)]() [![](https://badgen.net/github/license/p32929/p32929.github.io)]() [![](https://badgen.net/github/contributors/p32929/p32929.github.io)]() [![](https://badgen.net/github/dependents-pkg/p32929/p32929.github.io)]() 
 
-Visit Live: https://p32929.github.io/
+Data: https://harryhoyle.reborn
 
 ## Share
-Sharing this repository with your friends is just one click away from here
-
-[![facebook](https://user-images.githubusercontent.com/6418354/179013321-ac1d1452-0689-493f-9066-940cf2302b6e.png)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/p32929/p32929.github.io/)
-[![twitter](https://user-images.githubusercontent.com/6418354/179013351-7d8d6d1c-4ce2-46ab-bef8-4c4765a1b888.png)](https://twitter.com/intent/tweet?url=https://github.com/p32929/p32929.github.io/)
-[![tumblr](https://user-images.githubusercontent.com/6418354/179013343-3111f55a-3b90-40c7-8487-9777348672b0.png)](https://www.tumblr.com/share?v=3&u=https://github.com/p32929/p32929.github.io/)
-[![pocket](https://user-images.githubusercontent.com/6418354/179013334-b095c45f-becf-49f4-9ee1-5a731a9b1f85.png)](https://getpocket.com/save?url=https://github.com/p32929/p32929.github.io/)
-[![pinterest](https://user-images.githubusercontent.com/6418354/179013331-44cd9206-11b1-4b65-becb-5863b61c828f.png)](https://pinterest.com/pin/create/button/?url=https://github.com/p32929/p32929.github.io/)
-[![reddit](https://user-images.githubusercontent.com/6418354/179013338-7416ae3f-73ba-4522-86e1-1374d7082d22.png)](https://www.reddit.com/submit?url=https://github.com/p32929/p32929.github.io/)
-[![linkedin](https://user-images.githubusercontent.com/6418354/179013327-ca7b7102-1da8-4b1c-858f-1a6e5f21bd70.png)](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/p32929/p32929.github.io/)
-[![whatsapp](https://user-images.githubusercontent.com/6418354/179013353-f477fa0b-3e6f-4138-a357-c9991b23ff88.png)](https://api.whatsapp.com/send?text=https://github.com/p32929/p32929.github.io/)
-
-or Share my portfolio link ( https://p32929.github.io/ ) with your friends in just a click
-
-[![facebook](https://user-images.githubusercontent.com/6418354/179013321-ac1d1452-0689-493f-9066-940cf2302b6e.png)](https://www.facebook.com/sharer/sharer.php?u=https://p32929.github.io/)
-[![twitter](https://user-images.githubusercontent.com/6418354/179013351-7d8d6d1c-4ce2-46ab-bef8-4c4765a1b888.png)](https://twitter.com/intent/tweet?url=https://p32929.github.io/)
-[![tumblr](https://user-images.githubusercontent.com/6418354/179013343-3111f55a-3b90-40c7-8487-9777348672b0.png)](https://www.tumblr.com/share?v=3&u=https://p32929.github.io/)
-[![pocket](https://user-images.githubusercontent.com/6418354/179013334-b095c45f-becf-49f4-9ee1-5a731a9b1f85.png)](https://getpocket.com/save?url=https://p32929.github.io/)
-[![pinterest](https://user-images.githubusercontent.com/6418354/179013331-44cd9206-11b1-4b65-becb-5863b61c828f.png)](https://pinterest.com/pin/create/button/?url=https://p32929.github.io/)
-[![reddit](https://user-images.githubusercontent.com/6418354/179013338-7416ae3f-73ba-4522-86e1-1374d7082d22.png)](https://www.reddit.com/submit?url=https://p32929.github.io/)
-[![linkedin](https://user-images.githubusercontent.com/6418354/179013327-ca7b7102-1da8-4b1c-858f-1a6e5f21bd70.png)](https://www.linkedin.com/shareArticle?mini=true&url=https://p32929.github.io/)
-[![whatsapp](https://user-images.githubusercontent.com/6418354/179013353-f477fa0b-3e6f-4138-a357-c9991b23ff88.png)](https://api.whatsapp.com/send?text=https://p32929.github.io/)
-
-## Create your own portfolio
-1. Fork the repository ( Recommended )
-2. Change the repository name to `your-github-username.github.io` by going into settings
-3. Clone the repository using `git clone YOUR-REPOSITORY-URL`
-4. Modify the variables in `src/Others/GlobalVars.ts` to add your own data and flavors.  
-5. Run: `npm run predeploy`
-6. Run: `npm run deploy`
-7. Check the `settings` of your repository, and change the `source` of the github pages to `master` branch
-
-& Volla!! Now, you can check your portfolio LIVE version in the `homepage` URL (`https://your-github-username.github.io/`). Github may take a while to update the `github page` into your `homepage` URL.
-
-If it still doesn't show, do step 5 & 6 again. It usually takes 3-5 minutes for github pages to deploy the changes. 
-
-## Prerequisites
-You need to have `NodeJS` and `NPM` installed in your computer.
-If you don't have them installed, install them from here: https://nodejs.org/en/download/
-
-## Run the project
-1. Fork the repository ( Recommended )
-2. Clone your forked repository using `git clone YOUR-REPOSITORY-URL`
-3. Install all the dependencies using this command:
-`npm install`
-4. Run the project using this command:
-`npm start`
-
-## Thanks
-Thanks to everyone for your STARS, WATCHES, FORKS, & VISITS. Special thanks to:
-* [Facebook](https://www.facebook.com/) for the [ReactJS](https://reactjs.org/) library
-* [Microsoft](https://www.microsoft.com/) for the [TypeScript](https://www.typescriptlang.org/) language 
-* [mui-org](https://github.com/mui-org/) for the [Material-UI](https://material-ui.com/) Components library
-* [casesandberg](https://github.com/casesandberg) for the [react-color](https://casesandberg.github.io/react-color/) library
-* [Plabon Dey](https://www.facebook.com/plabon.shuvo1) for the Dynamic Color idea :P
-* [Github pages](https://pages.github.com/) for letting me host it for free 
-* [Vijay Verma](https://www.uplabs.com/realvjy) for the awesome [Glazzy Portfolio](https://www.uplabs.com/posts/glazzy-free-portfolio-psd-template) design
-
-Am I missing anyone? If yes, Let me know
-
+Sharing
 ## License
 ```
 MIT License
